@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "CommonUISDK",
+    name: "ZendeskCommonUISDK",
     products: [
         .library(name: "CommonUISDK", targets: ["CommonUISDK"])
     ],
